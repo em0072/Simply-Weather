@@ -8,11 +8,9 @@
 
 import UIKit
 
-class ViewControllerBackgroud: UIView {
+class DetailViewControllerBackgroud: UIView {
 
     
-    // Only override drawRect: if you perform custom drawing.
-    // An empty implementation adversely affects performance during animation.
     override func drawRect(rect: CGRect) {
         // Background View
         
@@ -51,7 +49,7 @@ class ViewControllerBackgroud: UIView {
         
         
         //// Sun Drawing
-        var sunPath = UIBezierPath(ovalInRect: CGRectMake(circleOrigin.x, circleOrigin.y, circleSize.width, circleSize.height))
+        let sunPath = UIBezierPath(ovalInRect: CGRectMake(circleOrigin.x, circleOrigin.y, circleSize.width, circleSize.height))
         pathFillColor.setFill()
         sunPath.fill()
         pathStrokeColor.setStroke()

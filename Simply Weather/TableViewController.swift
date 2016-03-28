@@ -158,7 +158,7 @@ class TableViewController: UIViewController, CLLocationManagerDelegate, UITableV
     // MARK: - UI Tweaks
     
     func configureView () {
-        tableView.backgroundView = BackgroundView()
+        tableView.backgroundView = CleanBackgroundView()
         tableView.rowHeight = 64.0
         
         self.navigationController!.navigationBar.setBackgroundImage(UIImage(), forBarMetrics: UIBarMetrics.Default)
@@ -229,10 +229,10 @@ class TableViewController: UIViewController, CLLocationManagerDelegate, UITableV
     
     if (maximumOffset - contentOffset <= threshold) && maximumOffset > 100 {
     // Get more data - API call
-    tableView.backgroundView = BGView()
+    tableView.backgroundView = LogoBackgroundView()
     } else if (maximumOffset - contentOffset >= threshold) {
     // Get more data - API call
-    tableView.backgroundView = BackgroundView()
+    tableView.backgroundView = CleanBackgroundView()
     }
     }
     

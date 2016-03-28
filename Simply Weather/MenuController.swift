@@ -461,9 +461,9 @@ class MenuController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         let state = longPress.state
         
-        var locationInView = longPress.locationInView(tableView)
+        let locationInView = longPress.locationInView(tableView)
         
-        var indexPath = tableView.indexPathForRowAtPoint(locationInView)
+        let indexPath = tableView.indexPathForRowAtPoint(locationInView)
         
         
         
@@ -569,18 +569,18 @@ class MenuController: UIViewController, UITableViewDelegate, UITableViewDataSour
         let title = NSLocalizedString("Location Services are off", comment: "Location Services are off")
         let message = NSLocalizedString("Location based weather is working only if location services are on. You can enable them in settings", comment: "Location based weather is working only if location services are on. You can enable them in settings")
 
-        var alertController = UIAlertController (title: title, message: message, preferredStyle: .Alert)
+        let alertController = UIAlertController (title: title, message: message, preferredStyle: .Alert)
         print("settings button pressed")
         
         let settingsButtonTitle = NSLocalizedString("Settings", comment: "Settings")
-        var settingsAction = UIAlertAction(title: settingsButtonTitle, style: .Default) { (_) -> Void in
+        let settingsAction = UIAlertAction(title: settingsButtonTitle, style: .Default) { (_) -> Void in
             let settingsUrl = NSURL(string: UIApplicationOpenSettingsURLString)
             if let url = settingsUrl {
                 UIApplication.sharedApplication().openURL(url)
             }
         }
         let cancelButtonTitle = NSLocalizedString("Cancel", comment: "Cancel")
-        var cancelAction = UIAlertAction(title: cancelButtonTitle, style: .Default, handler: nil)
+        let cancelAction = UIAlertAction(title: cancelButtonTitle, style: .Default, handler: nil)
         alertController.addAction(settingsAction)
         alertController.addAction(cancelAction)
         

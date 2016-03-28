@@ -8,10 +8,9 @@
 
 import UIKit
 
-class BGView: UIView {
+class LogoBackgroundView: UIView {
     
-    // Only override drawRect: if you perform custom drawing.
-    // An empty implementation adversely affects performance during animation.
+
     override func drawRect(rect: CGRect) {
         // Background View
         let bounds = UIScreen.mainScreen().bounds
