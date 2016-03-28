@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "90%"; ObjectID = "1a8-sI-XAc"; */
+"1a8-sI-XAc.text" = "90%";
+
+/* Class = "UILabel"; text = "100 km/h"; ObjectID = "5DL-qW-tpm"; */
+"5DL-qW-tpm.text" = "100 km/h";
+
+/* Class = "UILabel"; text = "Pressure"; ObjectID = "AuJ-3k-nJp"; */
+"AuJ-3k-nJp.text" = "Давление";
+
+/* Class = "UILabel"; text = "Cloud Cover"; ObjectID = "BY2-08-Cqh"; */
+"BY2-08-Cqh.text" = "Покрытие Облаков";
+
+/* Class = "UILabel"; text = "Среда"; ObjectID = "Bc6-E1-2ET"; */
+"Bc6-E1-2ET.text" = "Среда";
+
+/* Class = "UILabel"; text = "Daily Summary"; ObjectID = "BjI-pi-weA"; */
+"BjI-pi-weA.text" = "Обзор Дня";
+
+/* Class = "UISegmentedControl"; F7T-NQ-XJT.segmentTitles[0] = "Cº"; ObjectID = "F7T-NQ-XJT"; */
+"F7T-NQ-XJT.segmentTitles[0]" = "Cº";
+
+/* Class = "UISegmentedControl"; F7T-NQ-XJT.segmentTitles[1] = "Fº"; ObjectID = "F7T-NQ-XJT"; */
+"F7T-NQ-XJT.segmentTitles[1]" = "Fº";
+
+/* Class = "UILabel"; text = "1999 mB"; ObjectID = "KJL-4b-sDe"; */
+"KJL-4b-sDe.text" = "1999 mB";
+
+/* Class = "UILabel"; text = "--º"; ObjectID = "OCj-cd-hxY"; */
+"OCj-cd-hxY.text" = "--º";
+
+/* Class = "UILabel"; text = "at 24:23"; ObjectID = "PLC-x9-3cX"; */
+"PLC-x9-3cX.text" = "at 24:23";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SE5-6T-hbH"; */
+"SE5-6T-hbH.text" = "Label";
+
+/* Class = "UILabel"; text = "999º"; ObjectID = "SRp-fl-Jb7"; */
+"SRp-fl-Jb7.text" = "999º";
+
+/* Class = "UILabel"; text = "24:00"; ObjectID = "W7X-rW-LsB"; */
+"W7X-rW-LsB.text" = "24:00";
+
+/* Class = "UILabel"; text = "--%"; ObjectID = "Y4r-lT-Q26"; */
+"Y4r-lT-Q26.text" = "--%";
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "ZnN-H2-V2x"; */
+"ZnN-H2-V2x.text" = "Влажность";
+
+/* Class = "UILabel"; text = "-24º"; ObjectID = "ZwG-NZ-M4F"; */
+"ZwG-NZ-M4F.text" = "-24º";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "aWc-mq-SEa"; */
+"aWc-mq-SEa.text" = "-";
+
+/* Class = "UILabel"; text = "Wind"; ObjectID = "bI5-kh-PWw"; */
+"bI5-kh-PWw.text" = "Ветер";
+
+/* Class = "UILabel"; text = "+ Add Location"; ObjectID = "eiM-CH-nI1"; */
+"eiM-CH-nI1.text" = "+ Добавить";
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "f60-Ow-xqA"; */
+"f60-Ow-xqA.text" = "Влажность";
+
+/* Class = "UILabel"; text = "999º"; ObjectID = "fQD-Kc-Y6V"; */
+"fQD-Kc-Y6V.text" = "999º";
+
+/* Class = "UILabel"; text = "at 24:24"; ObjectID = "fvZ-Uo-JKO"; */
+"fvZ-Uo-JKO.text" = "at 24:24";
+
+/* Class = "UILabel"; text = "↓-30º"; ObjectID = "hQE-N6-mW4"; */
+"hQE-N6-mW4.text" = "↓-30º";
+
+/* Class = "UILabel"; text = "1999 mB"; ObjectID = "jeC-Bm-Zns"; */
+"jeC-Bm-Zns.text" = "1999 mB";
+
+/* Class = "UILabel"; text = " My Location"; ObjectID = "jtR-wO-SB2"; */
+"jtR-wO-SB2.text" = " Мое местоположение";
+
+/* Class = "UILabel"; text = "Wind"; ObjectID = "kEI-Xw-i21"; */
+"kEI-Xw-i21.text" = "Ветер";
+
+/* Class = "UILabel"; text = "21 января"; ObjectID = "rQk-ys-wVI"; */
+"rQk-ys-wVI.text" = "21 января";
+
+/* Class = "UILabel"; text = "↓-30º"; ObjectID = "sb7-xo-Xqr"; */
+"sb7-xo-Xqr.text" = "↓-30º";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "spS-tQ-KZ8"; */
+"spS-tQ-KZ8.title" = " ";
+
+/* Class = "UILabel"; text = "Current Weather"; ObjectID = "tgw-xH-ZJa"; */
+"tgw-xH-ZJa.text" = "Текущая Погода";
+
+/* Class = "UILabel"; text = "City Name"; ObjectID = "xf6-OG-hB4"; */
+"xf6-OG-hB4.text" = "Город";
+
+/* Class = "UILabel"; text = "--º"; ObjectID = "yPC-hN-5z6"; */
+"yPC-hN-5z6.text" = "--º";

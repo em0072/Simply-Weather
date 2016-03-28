@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  SimplyWeather
+
+  Created by Митько Евгений on 27.01.16.
+  Copyright © 2016 Evgeny Mitko. All rights reserved.
+*/
+
+
+"Now" = "Сейчас";
+"Today" = "Сегодня";
+"at %@" = "в %@";
+"%d mB" = "%d мм рт.ст";
+"%@ - %@. Maximum Intencity at %@" = "%@ - %@. Максимальное кол-во в %@";
+"%d km/h" = "%d км/ч";
+"Feels Like %dº" = "Ощущается как %dº";
+"Location Services are off" = "Службы геолокацци выключены";
+"Location based weather is working only if location services are on. You can enable them in settings" = "Погода, основанная на местоположении, работает только если включены службы геолокации. Вы можете включить их в настройках";
+"Settings" = "Настройки";
+"Cancel" = "Отмена";
+"Have a Nice Day!" = "Хорошего Вам дня!";
+"Rain" = "Дождь";
+"Snow" = "Снег";
+"Hail" = "Град";
+"Sleet" = "Дождь со снегом";
+"NSLocationWhenInUseUsageDescription" = "Simply Weather использует геолокацию, только чтобы показывать погоду в Вашем местоположении и только во время использования, чтобы не разряжать батареию телефона";

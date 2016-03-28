@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  SimplyWeather
+
+  Created by Митько Евгений on 27.01.16.
+  Copyright © 2016 Evgeny Mitko. All rights reserved.
+*/
+
+
+"Now" = "Now";
+"Today" = "Today";
+"at %@" = "at %@";
+"%d mB" = "%d mB";
+"%@ - %@. Maximum Intencity at %@" = "%@ - %@. Maximum Intensity at %@";
+"%d km/h" = "%d km/h";
+"Feels Like %dº" = "Feels Like %dº";
+"Location Services are off" = "Location Services are off";
+"Location based weather is working only if location services are on. You can enable them in settings" = "Location based weather is working only if location services are on. You can enable them in settings";
+"Settings" = "Settings";
+"Cancel" = "Cancel";
+"Have a Nice Day!" = "Have a Nice Day!";
+"Rain" = "Rain";
+"Snow" = "Snow";
+"Hail" = "Hail";
+"Sleet" = "Sleet";
+"NSLocationWhenInUseUsageDescription" = "Simply Weather uses your location only to display weather near you and only while using the app, in order to save phone battery life.";
